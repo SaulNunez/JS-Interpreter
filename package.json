@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/NeilFraser/JS-Interpreter/issues"
   },
-  "homepage": "https://github.com/NeilFraser/JS-Interpreter#readme"
+  "homepage": "https://github.com/NeilFraser/JS-Interpreter#readme",
+  "dependencies": {
+    "acorn": "^7.1.1"
+  }
 }
